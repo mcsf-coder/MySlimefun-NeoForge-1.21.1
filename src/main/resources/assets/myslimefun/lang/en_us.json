@@ -1,0 +1,30 @@
+{
+  "creativetab.myslimefun.slimefun_tab": "My Slimefun",
+
+  "item.myslimefun.slimefun_guide": "Slimefun Guide",
+
+  "item.myslimefun.iron_dust": "Iron Dust",
+  "item.myslimefun.gold_dust": "Gold Dust",
+  "item.myslimefun.copper_dust": "Copper Dust",
+  "item.myslimefun.tin_dust": "Tin Dust",
+  "item.myslimefun.silver_dust": "Silver Dust",
+  "item.myslimefun.lead_dust": "Lead Dust",
+  "item.myslimefun.aluminum_dust": "Aluminum Dust",
+  "item.myslimefun.zinc_dust": "Zinc Dust",
+  "item.myslimefun.magnesium_dust": "Magnesium Dust",
+
+  "item.myslimefun.tin_ingot": "Tin Ingot",
+  "item.myslimefun.silver_ingot": "Silver Ingot",
+  "item.myslimefun.lead_ingot": "Lead Ingot",
+  "item.myslimefun.aluminum_ingot": "Aluminum Ingot",
+  "item.myslimefun.zinc_ingot": "Zinc Ingot",
+  "item.myslimefun.magnesium_ingot": "Magnesium Ingot",
+  "item.myslimefun.steel_ingot": "Steel Ingot",
+  "item.myslimefun.bronze_ingot": "Bronze Ingot",
+  "item.myslimefun.brass_ingot": "Brass Ingot",
+  "item.myslimefun.duralumin_ingot": "Duralumin Ingot",
+  "item.myslimefun.solder_ingot": "Solder Ingot",
+  "item.myslimefun.damascus_steel_ingot": "Damascus Steel Ingot",
+  "item.myslimefun.hardened_metal": "Hardened Metal",
+  "item.myslimefun.reinforced_alloy_ingot": "Reinforced Alloy Ingot"
+}
